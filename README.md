@@ -5,15 +5,27 @@ An Android application that provides managing and tracking of medical conference
 
 An Android application that doctors can use to participate in and track medical conference schedules.
 
-1. For conference admins
-    a. can schedule new conferences
-    b. can send conference calendar invites to doctors
-    c. can see suggested new/old topics
-2. For doctors
-    a. can suggest new topics they could speak on
-    b. can see suggested new/old topics
-    c. can receive / accept and reject invites
-    d. invites are added to calendar
+<ul>
+    <li>
+    For conference admins
+        <ul> 
+            <li>can schedule new conferences</li>
+            <li>can send conference calendar invites to doctors</li>
+            <li>can see suggested new/old topics</li>
+        </ul>
+    </li>
+</ul>
+<ul>
+    <li>
+    For doctors
+        <ul> 
+            <li>can suggest new topics they could speak on</li>
+            <li>can see suggested new/old topics</li>
+            <li>can receive / accept and reject invites</li>
+            <li>invites are added to calendar</li>
+        </ul>
+    </li>
+</ul>
     
 <h2>Technologies Used</h2>
   
