@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Medical conference reminder</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_description">Description</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_submit">SUBMIT</string>
+    <string name="btn_dlttopic">Delete Topic</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_edittopic">Edit Topic</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="btn_upload">Upload</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="newoldtopics">New/Old Topics</string>
+    <string name="suggesttopic">Suggest Topics</string>
+    <string name="newinvitation">New Invitations</string>
+    <string name="invitedoctors">Invite Doctors</string>
+    <string name="conferences">Conferences</string>
+    <string name="createevent">Create Event</string>
+    <string name="location">Location</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_suggest_topic">suggestTopic</string>
+    <string name="title_activity_all_topics">AllTopics</string>
+    <string name="title_activity_show_topic">ShowTopic</string>
+    <string name="title_activity_new_invitation">newInvitation</string>
+    <string name="title_activity_conference__show">Conference_Show</string>
+    <string name="title_activity_selecte_doctors">Selecte Doctors</string>
+    <string name="title_activity_recent_invitation">Recent Invitation</string>
+</resources>

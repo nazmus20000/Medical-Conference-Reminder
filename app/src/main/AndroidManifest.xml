@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.crossover.medicalconferencereminder">
+
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Registration" />
+        <activity android:name=".ImageUploadActivity" />
+        <activity
+            android:name=".Dashboard"
+            android:label="@string/title_activity_dashboard"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".suggestTopic"
+            android:label="@string/title_activity_suggest_topic"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AllTopics"
+            android:label="@string/title_activity_all_topics"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ShowTopic"
+            android:label="@string/title_activity_show_topic"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AddInvitations"
+            android:label="@string/title_activity_new_invitation"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Conference_Show"
+            android:label="@string/title_activity_conference__show"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SelectDoctors"
+            android:label="@string/title_activity_selecte_doctors"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RecentInvitation"
+            android:label="@string/title_activity_recent_invitation"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>
