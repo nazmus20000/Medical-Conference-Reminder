@@ -29,3 +29,69 @@ An Android application that doctors can use to participate in and track medical 
       password: 12345678
       (Automatically Created)
 
+<h2>Description </h2> 
+<span>
+<img src="https://nazmussakibsite.files.wordpress.com/2016/05/screenshot_20160519-2206361.png" border="0" width="200" height="350"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://nazmussakibsite.files.wordpress.com/2016/05/screenshot_20160519-2207051.png" border="0" width="200" height="350"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://nazmussakibsite.files.wordpress.com/2016/05/screenshot_20160519-2207421.png" border="0" width="200" height="350"/>
+</span>
+
+Here both in the login and registration page, the email must be at somthing@something.something format. And the password must be atleast of size 8.
+
+<img src="https://nazmussakibsite.files.wordpress.com/2016/05/screenshot_20160519-2207531.png" border="0" width="200" height="350"/>
+
+Image can be uploaded from phone memory.
+
+<img src="https://nazmussakibsite.files.wordpress.com/2016/05/screenshot_20160519-2208031.png" border="0" width="200" height="350"/>
+
+Here is the users dashboard.
+
+<span>
+<img src="https://nazmussakibsite.files.wordpress.com/2016/05/screenshot_20160519-2208441.png" border="0" width="200" height="350"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://nazmussakibsite.files.wordpress.com/2016/05/screenshot_20160519-2208511.png" border="0" width="200" height="350"/>
+</span>
+
+Different topics can be added by the users.
+
+<img src="https://nazmussakibsite.files.wordpress.com/2016/05/screenshot_20160519-2208561.png" border="0" width="200" height="350"/>
+
+User can see the new/old topics that is published by him/herself or other doctors.
+
+<img src="https://nazmussakibsite.files.wordpress.com/2016/05/screenshot_20160519-2209051.png" border="0" width="200" height="350"/>
+
+Users can eloborate, edit or delete a particular topic. (Edit or delete is allowed only if it is written by that user)
+
+<span>
+<img src="https://nazmussakibsite.files.wordpress.com/2016/05/screenshot_20160519-2209551.png" border="0" width="200" height="350"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://nazmussakibsite.files.wordpress.com/2016/05/screenshot_20160519-2210031.png" border="0" width="200" height="350"/>
+</span>
+
+User can see all the invitations invited by the admins and also can reject/accept the invitation. If they accept it then a schedule is set in the calander of the mobile phone.
+
+<img src="https://nazmussakibsite.files.wordpress.com/2016/05/screenshot_20160519-2210361.png" border="0" width="200" height="350"/>
+
+Here is the admin dashboard.
+
+<img src="https://nazmussakibsite.files.wordpress.com/2016/05/screenshot_20160519-2210551.png" border="0" width="200" height="350"/>
+
+Admins can schedule any event for the doctors.
+
+<span>
+<img src="https://nazmussakibsite.files.wordpress.com/2016/05/screenshot_20160519-2211141.png" border="0" width="200" height="350"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://nazmussakibsite.files.wordpress.com/2016/05/screenshot_20160519-2211181.png" border="0" width="200" height="350"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://nazmussakibsite.files.wordpress.com/2016/05/screenshot_20160519-2211231.png" border="0" width="200" height="350"/>
+</span>
+
+Admin can invite anyone to a particular event. Admin can also see the status of the invitaion. It can be pending, going and not going status. 
+
+<img src="https://nazmussakibsite.files.wordpress.com/2016/05/screenshot_20160519-2211411.png" border="0" width="200" height="350"/>
+
+There is also a navigation drawer where anyone can sign out and can see their images and name.
+
+
